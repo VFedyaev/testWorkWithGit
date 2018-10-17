@@ -5,6 +5,9 @@
 
 /[Mm]ail/
 /login/
+*.txt
+3.xlsx
+
 # User-specific files
 *.suo
 *.user
