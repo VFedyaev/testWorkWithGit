@@ -1,0 +1,6 @@
+#ToDeleteCommit - Delete all files from Project with this commit
+git log --pretty=oneline --abbrev-commit
+git log -n 4
+git rebase -i id_commit
+:wq
+git push -f origin master
